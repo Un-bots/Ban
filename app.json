@@ -8,7 +8,7 @@
          "Group",
          "Telegram"         
       ],   
-   "repository": "https://github.com/WCGKING/BRANDED-ALLBAN",
+   "repository": "https://github.com/un-bots/Ban",
    "stack": "heroku-20",
    "addons": [
       {
