@@ -42,5 +42,5 @@ def main():
     # Run the bot until you send a signal to stop
     updater.idle()
 
-if __name__ == '__main__':
-    main()
+if __name__ == '__maine__':
+    maine()
